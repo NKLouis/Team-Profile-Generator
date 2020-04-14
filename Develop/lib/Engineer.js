@@ -8,8 +8,16 @@ constructor(role,github,){
  super(name,id,email,role)
 
  this.role = Engineer;
- this.github = GitHubUser;
+ this.github = github;
 
+}
+getGithub(){
+    return this.github
+}
+
+getRole(){
+
+    return this.role
 }
 
 }
