@@ -17,19 +17,19 @@
 <h2 id="description"> Description </h2>
 <p>A Command-Line application to generate an HTML page of a work team.</p>
 
-<h2 id="description"> installation </h2>
+<h2 id="description"> Installation </h2>
 <p>Clone the files from the repository https://github.com/NKLouis/Team-Profile-Generator​<p>
 
-<h2 id="description"> usage </h2>
+<h2 id="description"> Usage </h2>
 
 
 ![](http://g.recordit.co/JUiGShyUzu.gif)
 
 
-<h2 id="description"> license </h2>
+<h2 id="description"> License </h2>
 <p></p>
 
-<h2 id="description"> contributor </h2>
+<h2 id="description"> Contributor </h2>
 <a href="https://github.com/NKLouis " target="_blank">@NKLouis</a> 
 
 <h2 id="description"> Technology </h2>
