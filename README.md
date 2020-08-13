@@ -1,6 +1,6 @@
 
 <img src= "https://img.shields.io/badge/License--green">
-<h1> Employees-Generator</h1>
+<h1> Team Profile Generator</h1>
 <img align ="right" width="120" height="120" src="https://avatars3.githubusercontent.com/u/58704859?v=4">
 
     
@@ -15,10 +15,10 @@
 <li><a href="#technology">Technology</a></li>   
    
 <h2 id="description"> Description </h2>
-<p>A team page with team members information.</p>
+<p>A Command-Line application to generate an HTML page of a work team.</p>
 
 <h2 id="description"> installation </h2>
-<p>JSON package included</p>
+<p>Clone the files from the repository https://github.com/NKLouis/README-Generator​<p>
 
 <h2 id="description"> usage </h2>
 
@@ -33,7 +33,7 @@
 <a href="https://github.com/NKLouis " target="_blank">@NKLouis</a> 
 
 <h2 id="description"> Technology </h2>
-<p> Node.Js, JavaScript, HTML, CSS,Bootstrap</p>
+<p> Node.Js, JavaScript, GIT, GitHub, Command- Line</p>
 
 <h2> Contact </h2>
 
