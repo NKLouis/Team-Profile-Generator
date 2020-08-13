@@ -18,7 +18,7 @@
 <p>A Command-Line application to generate an HTML page of a work team.</p>
 
 <h2 id="description"> installation </h2>
-<p>Clone the files from the repository https://github.com/NKLouis/README-Generator​<p>
+<p>Clone the files from the repository https://github.com/NKLouis/Team-Profile-Generator​<p>
 
 <h2 id="description"> usage </h2>
 
